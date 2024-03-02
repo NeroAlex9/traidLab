@@ -3089,9 +3089,9 @@ blockquote {
     margin-bottom: 24px
 }
 
-.stack-2xl {
-    margin-bottom: 48px
-}
+/*.stack-2xl {*/
+/*    margin-bottom: 48px*/
+/*}*/
 
 .stack-3xl {
     margin-bottom: 64px
@@ -3600,6 +3600,7 @@ blockquote {
 }
 
 .body-text-l {
+    padding-top: 10px;
     margin-bottom: 20px;
     font-size: 1.25rem;
     line-height: 1.5
