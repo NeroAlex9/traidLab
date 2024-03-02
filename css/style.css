@@ -1133,7 +1133,7 @@ textarea.w-select {
         display: contents !important;
     }
     .pulse {
-        max-width: 40px !important;
+        max-width: 25px !important;
     }
     .w-container {
         max-width: none
@@ -5799,10 +5799,13 @@ blockquote {
         width: 300px;
 
     }
+
+
     .relative-mm{
         display: flex;
     }
     .body-text-l.tc-white-80 {
+        max-width: 400px;
         font-size: 1rem;
     }
     .section._2xl {
