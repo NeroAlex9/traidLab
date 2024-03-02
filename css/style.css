@@ -1133,7 +1133,7 @@ textarea.w-select {
         display: contents !important;
     }
     .pulse {
-        max-width: 25px !important;
+        max-width: 40px !important;
     }
     .w-container {
         max-width: none
@@ -3155,7 +3155,7 @@ blockquote {
 
 
 .col.lg8 {
-    width: 66.6667%
+    width: 69.1%
 }
 
 .col.lg9 {
@@ -5793,6 +5793,14 @@ blockquote {
     .label-m {
         font-size: 1.5rem !important;
     }
+    .label-mm{
+        max-height: 75px;
+        width: 300px;
+
+    }
+    .relative-mm{
+        display: flex;
+    }
     .body-text-l.tc-white-80 {
         font-size: 1rem;
     }
@@ -6637,7 +6645,7 @@ media="all">
 .mySwiper {
     width: 100%;
     overflow: hidden;
-    margin-top: 75px
+    margin-top: 25px
 }
 
 .main-descr {
