@@ -897,7 +897,7 @@ textarea.w-select {
 
 @media screen and (max-width:991px) {
     .logobar {
-        height: 180px;
+        height: 143px;
         position: relative !important;
     }
     stack-2xl {
@@ -1105,7 +1105,7 @@ textarea.w-select {
 
 @media screen and (max-width: 399px) {
     .logobar {
-        height: 200px !important;
+        height: 175px !important;
     }
 }
 @media screen and (max-width:479px) {
@@ -1120,7 +1120,7 @@ textarea.w-select {
         padding-top: 0px !important;
     }
     .logobar {
-        height: 240px;
+        height: 175px;
         position: relative !important;
     }
     .stack-2xl {
