@@ -1112,6 +1112,7 @@ textarea.w-select {
     #home {
         margin-top: 0px !important;
     }
+
     .nav-container {
         padding-top: 0px !important;
         padding-bottom: 0px !important;
@@ -1132,8 +1133,15 @@ textarea.w-select {
     .label-m {
         display: contents !important;
     }
+    .pulseQ{
+        max-width: 25px !important;
+    }
     .pulse {
         max-width: 25px !important;
+    }
+    .pulseQ{
+        padding-top: 6px;
+        max-width: 40px !important;
     }
     .w-container {
         max-width: none
@@ -3771,6 +3779,7 @@ blockquote {
 .fill-100 {
     width: 100%
 }
+
 
 .pulse {
     max-width: 50px;
